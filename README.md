@@ -29,7 +29,7 @@ A simple Python script that allows you to block, unblock, and test access to spe
 2. Open **CMD** or **PowerShell** as Administrator.
 3. Move to the script directory:
     ```
-    cd C:\Users\abhin\Desktop\My_Projects\BasicFirewall
+    cd C:\your\project\folder\BasicFirewall
     ```
 4. Run the script:
     ```
